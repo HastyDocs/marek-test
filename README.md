@@ -12,4 +12,4 @@ readme more
 some additional text
 
 
-code samples <>
+code samples <k>
