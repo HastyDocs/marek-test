@@ -9,7 +9,7 @@ code
 readme more
 
 
-some additional text
+some text
 
 
 code samples <more><k>
